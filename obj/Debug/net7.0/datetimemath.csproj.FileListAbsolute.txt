@@ -1,0 +1,15 @@
+C:\Pratikler\datetimemath\bin\Debug\net7.0\datetimemath.exe
+C:\Pratikler\datetimemath\bin\Debug\net7.0\datetimemath.deps.json
+C:\Pratikler\datetimemath\bin\Debug\net7.0\datetimemath.runtimeconfig.json
+C:\Pratikler\datetimemath\bin\Debug\net7.0\datetimemath.dll
+C:\Pratikler\datetimemath\bin\Debug\net7.0\datetimemath.pdb
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.csproj.AssemblyReference.cache
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.AssemblyInfoInputs.cache
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.AssemblyInfo.cs
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.csproj.CoreCompileInputs.cache
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.dll
+C:\Pratikler\datetimemath\obj\Debug\net7.0\refint\datetimemath.dll
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.pdb
+C:\Pratikler\datetimemath\obj\Debug\net7.0\datetimemath.genruntimeconfig.cache
+C:\Pratikler\datetimemath\obj\Debug\net7.0\ref\datetimemath.dll
